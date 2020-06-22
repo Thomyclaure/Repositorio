@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="es">
+<html>
+   <head>
+        <meta charset="utf-8" / >
+        <title>Titulo de esta pagina</title>
+        <meta name="description" content="descripcion de la pagina">
+   </head>
+
+   <body>
+       <p>Esto es un parrafo visible para el usuario</p>
+       <b>Esto es un parrafo pero con la letra en negrita</b>
+       <i>Esto es un parrafo en cursiva</i>
+       <u>Esto es un parrafo con letra subrayada</u>
+       <!--Esto es un comentario-->
+   </body>
+</html>
