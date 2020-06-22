@@ -13,7 +13,5 @@
        <i>Esto es un parrafo en cursiva</i>
        <u>Esto es un parrafo con letra subrayada</u>
        <!--Esto es un comentario-->
-       <!--Esto es un comentario-->
    </body>
 </html>
-
